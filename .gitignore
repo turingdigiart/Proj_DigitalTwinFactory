@@ -1,0 +1,6 @@
+﻿# 依赖与构建产物（后续开发时按需补充）
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
