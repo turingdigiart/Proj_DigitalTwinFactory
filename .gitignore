@@ -1,6 +1,12 @@
-﻿# 依赖与构建产物（后续开发时按需补充）
+# 依赖与构建产物（后续开发时按需补充）
 node_modules/
 dist/
 build/
 *.log
 .DS_Store
+
+# 商务/报价资料：只留同步盘，禁止入库（DEC-ORG-091）
+交付/
+历史版本/
+记录/
+PROJECT_STATUS.md
